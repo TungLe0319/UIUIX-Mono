@@ -8,7 +8,7 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-     "format": "prettier --write './pages/*.vue' './components/*.vue' "
+    "format": "prettier --write './pages/*.vue' './components/*.vue' "
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
@@ -20,5 +20,8 @@
     "prettier-plugin-tailwindcss": "^0.5.7",
     "vue": "^3.3.8",
     "vue-router": "^4.2.5"
+  },
+  "dependencies": {
+    "nuxt-package": "workspace:^"
   }
 }
