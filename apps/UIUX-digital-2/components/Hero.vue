@@ -16,6 +16,7 @@
       >
         Learn More
       </button>
+      <nx-btn>erer</nx-btn>
     </div>
   </div>
 </template>

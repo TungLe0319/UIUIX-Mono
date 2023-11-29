@@ -22,6 +22,6 @@
     "vue-router": "^4.2.5"
   },
   "dependencies": {
-    "nuxt-package": "workspace:^"
+    "nuxt-package": "workspace:^1.0.0"
   }
 }
